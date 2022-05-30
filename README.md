@@ -8,7 +8,7 @@ Dieser und ähnliche Sachverhalte sind kennzeichnend für die Transformation ein
 
 Ähnliche Sachverhalte treffen auf viele Güter der wünschenswerten und wohl notwendigen Kreislaufwirtschaft zu. Eine nachrangige Zweit- und Weiterverwertung auch bei z.B. Gebrauchsgegenständen reduziert die Wertschöpfung um den Anteil der Wirtschaftsleistung die gespart und nicht mehr als Kostenpunkt erfasst wird. In der aktuellen Berechnung des BIP würde somit der Staat bei einer Förderung in nachhaltige Investitionen einen großen Anteil seiner ausgewiesen Wirtschaftsleistung einbüßen, obwohl die wirtschaftliche Prosperität der Volkswirtschaft erhöht und die Ressourcen der Umwelt geschont würden.
 
-Ein Ansatz könnte sein, auch autonom generierte Wertschöpfung zu denen es keine Kostenstellen gibt, zu taxieren – entsprechend nach relevanten Maßeinheiten. Bei Strom z.B. nach kWh. Hierdurch ließe sich dem Underground Production Modell der OECD entgegenkommen (https://www.oecd.org/sdd/na/NOE-Handbook-%20Chapter8.pdf), welches Wertschöpfung im Sinne des BIP u.a. durch eine vorhandene Taxierung kennzeichnet.
+Ein Ansatz könnte sein, auch autonom generierte Wertschöpfung zu der es keine entsprechende Kostenstellen gibt, zu taxieren – entsprechend nach relevanten Maßeinheiten. Bei Strom z.B. nach kWh. Hierdurch ließe sich dem Underground Production Modell der OECD entgegenkommen (https://www.oecd.org/sdd/na/NOE-Handbook-%20Chapter8.pdf), welches Wertschöpfung im Sinne des BIP u.a. durch eine vorhandene Taxierung kennzeichnet.
 
 Allerdings fehlen derzeit entsprechende Taxierungs- bzw. BIP-Berechnungsmodelle.
 
