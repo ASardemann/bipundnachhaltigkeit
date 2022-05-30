@@ -1,0 +1,15 @@
+Das volkswirtschaftliche Problem der Nachhaltigkeit entsteht durch die Nichteinbeziehung nachhaltiger Wertschöpfung bzw. dessen negativem Einfluss auf das BIP im Vergleich zu nicht nachhaltiger Wertschöpfung.
+
+Um daher ein nachhaltiges BIP zu ermitteln, müssen Investitionen und Erträge in und aus nachhaltigen Wirtschaftsgüter in einer anderen Gewichtung in die Berechnung des BIP einbezogen werden.
+
+Ein einfaches Beispiel sind auf privaten Wohnhäusern angebrachte Solaranlagen. Diese sollen in einem nachhaltigen Sinne das Wohnobjekt mit Energie versorgen. Somit eine „Nicht in das BIP einfließende Wertschöpfung&quot; für die Bewohner des Wohnobjektes darstellen. Um ein staatliches Interesse an dieser nachhaltigen Wertschöpfung zu manifestieren, müsste der Staat also die nicht-einfließende Wertschöpfung aus der nachhaltigen Solaranlage in sein BIP einbeziehen und so die wirtschaftliche Prosperität seiner Volkswirtschaft in realem Maßstab abbilden.
+
+Dieser und ähnliche Sachverhalte sind kennzeichnend für die Transformation einer Marktwirtschaft hin zu einer nachhaltigen Kreislaufwirtschaft. Die derzeitigen BIP-Berechnungsmodelle der Volkswirtschaften beziehen die Nachhaltigkeit und die Autonomie der nachhaltigen Investitionen nicht nach deren Wertschöpfung sondern lediglich nach dem nominalen Nennwert und den Wartungs- und Instandhaltungskosten mit ein. Die autonome Generierung und Nutzung von, wie in diesem Beispiel, Strom verursacht für den Hersteller keine Kosten, außer eben den Kosten die aufgebracht werden müssen um die entsprechenden Anlagen zu installieren und zu warten. Das zu erwartende BIP des Staates sinkt somit um die nicht mehr erfasste Kostenstelle des vorher hinzugekauften Strombedarfs und wird ebenso in der anzusetzenden Wertschöpfung um diesen Nachhaltigkeitsanteil bereinigt.
+
+Ähnliche Sachverhalte treffen auf viele Güter der wünschenswerten und wohl notwendigen Kreislaufwirtschaft zu. Eine nachrangige Zweit- und Weiterverwertung auch bei z.B. Gebrauchsgegenständen reduziert die Wertschöpfung um den Anteil der Wirtschaftsleistung die gespart und nicht mehr als Kostenpunkt erfasst wird. In der aktuellen Berechnung des BIP würde somit der Staat bei einer Förderung in nachhaltige Investitionen einen großen Anteil seiner ausgewiesen Wirtschaftsleistung einbüßen obwohl die wirtschaftliche Prosperität der Volkswirtschaft erhöht und die Ressourcen der Umwelt geschont würden.
+
+Ein Ansatz könnte sein, auch autonom genierte Wertschöpfung zu denen es keine Kostenstellen gibt, zu taxieren – entsprechend nach relevanten Maßeinheiten. Bei Strom z.B. nach kWh. Hierdurch ließe sich dem Underground Production Modell der OECD entgegenkommen (https://www.oecd.org/sdd/na/NOE-Handbook-%20Chapter8.pdf), welches Wertschöpfung im Sinne des BIP u.a. durch eine vorhandene Taxierung kennzeichnet.
+
+Allerdings fehlen derzeit entsprechende Taxierungs- bzw. BIP-Berechnungsmodelle.
+
+Daher soll dies ein Aufruf an alle mit der Thematik Bewanderten sein, gerne Vorschläge zu unterbreiten, um sich an der Erstellung eines nachhaltigen BIP-Berechnungsmodell zu beteiligen.
