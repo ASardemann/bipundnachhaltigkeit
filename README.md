@@ -14,8 +14,9 @@ Ein Problemlösungsansatz könnte sein, auch autonom generierten Nutzwert, zu de
 
 Allerdings fehlen derzeit entsprechende Taxierungs- bzw. BIP-Berechnungsmodelle.
 
-Daher soll dies ein Aufruf an alle mit der Thematik Bewanderten sein, gerne Vorschläge zu unterbreiten, um sich an der Erstellung und Entwicklung eines nachhaltigen BIP-Berechnungsmodells beteiligen!
+Daher soll dies ein Aufruf an alle mit der Thematik Bewanderten sein, gerne Vorschläge zu unterbreiten, um sich an der Erstellung und Entwicklung eines nachhaltigen BIP-Berechnungsmodells zu beteiligen!
 
 Weblinks:
+
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Beginners:GDP_-_Calculating_GDP/de#Wie_wird_das_BIP_berechnet.3F
 https://www.ons.gov.uk/visualisations/dvc396/index.html
