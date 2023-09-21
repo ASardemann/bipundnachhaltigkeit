@@ -23,3 +23,5 @@ Weblinks:
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Beginners:GDP_-_Calculating_GDP/de#Wie_wird_das_BIP_berechnet.3F
 
 https://www.ons.gov.uk/visualisations/dvc396/index.html
+
+https://stats.oecd.org/Index.aspx?DataSetCode=EAMFP
