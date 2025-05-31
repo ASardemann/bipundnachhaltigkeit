@@ -16,6 +16,13 @@ Allerdings fehlen derzeit entsprechende Taxierungs- bzw. BIP-Berechnungsmodelle.
 
 Daher soll dies ein Aufruf an alle mit der Thematik Bewanderten sein, gerne Vorschläge zu unterbreiten, um sich an der Erstellung und Entwicklung eines nachhaltigen BIP-Berechnungsmodells zu beteiligen!
 
+Updates Mai 2025:
+
+Laut der aktuellen Medienberichterstattung könnten dies erste Annäherungen an ein nachhaltiges Wertschöpfungsmodell sein:
+
+https://www.bbc.com/news/articles/czedpnen168o
+
+https://restofworld.org/2025/brazil-dwallet-user-data-pilot/
 
 
 Weblinks:
